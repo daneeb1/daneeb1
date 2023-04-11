@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Team%20Greedy%20Gorilla&fontSize=90)
+### 이단비 👋
+
+안녕하세요.   
+백엔드 개발자로 성장하고 싶은 이단비입니다.   
+잘부탁드립니다:) !!
+
 
 <!--
 **daneeb1/daneeb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
