@@ -1,7 +1,8 @@
 [[![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20dan%20bee'-'&fontSize=90)
 ](https://capsule-render.vercel.app/api?](https://capsule-render.vercel.app/api?
-)
-)### 이단비 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
 
 
 
