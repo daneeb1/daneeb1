@@ -1,5 +1,4 @@
-[[<img src="https://capsule-render.vercel.app/api?type=cylinder&color=pink&height=200&section=header&text=danbi Github&fontSize=90" />
-](https://capsule-render.vercel.app/api?)](https://capsule-render.vercel.app/api?)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=danbee%20Github&fontSize=60)
 <!--
 **daneeb1/daneeb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
