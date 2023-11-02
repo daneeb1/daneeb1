@@ -7,6 +7,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=daneeb1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=64BAFF&count_private=true" width=48% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneeb1&layout=compact"><br><br>
+
 </a>
 
 
