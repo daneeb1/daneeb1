@@ -8,12 +8,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=daneeb1&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=64BAFF&count_private=true" width=48% />
 </a>
-<a href="https://github.com/daneeb1/github-stats">
- <img src="https://raw.githubusercontent.com/daneeb1/github-stats/output/generated/languages.svg" width=51% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daneeb1&theme=react-dark&bg_color=20232a&hide_border=true&line=64BAFF&color=64BAFF" width=98%/>
-</a>
+
 
 </br></br></br>
 
